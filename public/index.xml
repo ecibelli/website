@@ -77,16 +77,6 @@ This document is a brief primer on using Go templates.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/resume/</guid>
-      <description>PERSONAL PROFILE Data and speech scientist who uses quantitative and computational tools for research in speech, cognition, and language. Strong record of interdisciplinary collaboration with teams in psychology, cognitive science, neuroscience, and engineering.
-Areas of research expertise:  Speech production, acoustics, and motor control in mental health disorders Neural and cognitive representation of words during spoken language processing Effects of language experience and cognitive capabilities on the perception of auditory and visual stimuli  EMPLOYMENT HISTORY Lecturer, ViaX Education 2018 – present • Develop college course materials and advise student research projects for online education company Postdoctoral research associate, Northwestern University 2015 – 2018 • Ran acoustic and statistical analyses of linguistic data; implemented speech algorithms and processing pipelines; wrote scientific papers; reviewed articles in scientific journals; secured grant funding; mentored undergraduate/graduate students Lecturer and undergraduate advisor, Northwestern University 2015 – 2017 • Designed and taught college courses of 20-100 students in linguistics and cognitive science; mentor to 100 majors and minors in interdepartmental program; collaborated on administrative structure of program ESL test set developer, Duolingo 2017 • Developed test items of varying complexity for English language teaching program Linguistic annotator and analyst, Powerset (Microsoft) 2010 • Annotated large corpora of Internet-mined text for linguistic and semantic features; collaborated with remote team SKILLS AND EDUCATION Technical skills: R, Praat, LaTeX, Python, Jupyter, MatLab Analytic skills: Statistical modeling, data visualization, acoustic analysis, neural data processing, phonetic transcription Languages: English (native), Spanish (intermediate), Finnish (intermediate), Garifuna (fieldwork) Training: Science communication and outreach, translational research for pediatric medicine Volunteering: Lakeview Pantry (Jan.</description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,6 +84,17 @@ Areas of research expertise:  Speech production, acoustics, and motor control in
       <guid>/about/</guid>
       <description>I was raised in a small Jersey town (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to incite war. After distinguishing myself through hardy athletic pursuits and participating in musical groups that expanded my cultural horizons, I left the Garden State for college.
 While at Wellesley, I studied cognitive and linguistic sciences, and got my start in research with labs on and off campus.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>PERSONAL PROFILE Data and speech scientist who uses quantitative and computational tools for research in speech, cognition, and language. Strong record of interdisciplinary collaboration with teams in psychology, cognitive science, neuroscience, and engineering.
+Areas of research expertise:
+ Speech production, acoustics, and motor control in mental health disorders Neural and cognitive representation of words during spoken language processing Effects of language experience and cognitive capabilities on the perception of auditory and visual stimuli  EMPLOYMENT HISTORY Lecturer, ViaX Education (2018)</description>
     </item>
     
   </channel>
