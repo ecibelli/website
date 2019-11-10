@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Cayman</title>
+    <link>/</link>
+    <description>Recent content in Blog on Cayman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cayman Typography</title>
+      <link>/cayman-typography/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/cayman-typography/</guid>
+      <description>Text Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).  Text can be bold, italic, or strikethrough. Links should be blue with no underlines (unless hovered over).
+Paragraph There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.</description>
+    </item>
+    
+    <item>
+      <title>Katex Math Typesetting</title>
+      <link>/katex-math-typesetting/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/katex-math-typesetting/</guid>
+      <description>Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
+See the online reference of supported TeX functions.
+Note: For inline math to render correctly, your content file extension must be .mmark. See the official mmark site.
+Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$  Inline math: \( \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… \)
+Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$  Block math:</description>
+    </item>
+    
+    <item>
+      <title>NASA Images</title>
+      <link>/nasa-images/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/nasa-images/</guid>
+      <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty. Also, the built-in figure shortcode is shown for each image.
+{{&amp;lt; figure img=&amp;quot;sun.jpg&amp;quot; caption=&amp;quot;The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>PERSONAL PROFILE Data and speech scientist who uses quantitative and computational tools for research in speech, cognition, and language. Strong record of interdisciplinary collaboration with teams in psychology, cognitive science, neuroscience, and engineering.
+Areas of research expertise:  Speech production, acoustics, and motor control in mental health disorders Neural and cognitive representation of words during spoken language processing Effects of language experience and cognitive capabilities on the perception of auditory and visual stimuli  EMPLOYMENT HISTORY Lecturer, ViaX Education 2018 – present • Develop college course materials and advise student research projects for online education company Postdoctoral research associate, Northwestern University 2015 – 2018 • Ran acoustic and statistical analyses of linguistic data; implemented speech algorithms and processing pipelines; wrote scientific papers; reviewed articles in scientific journals; secured grant funding; mentored undergraduate/graduate students Lecturer and undergraduate advisor, Northwestern University 2015 – 2017 • Designed and taught college courses of 20-100 students in linguistics and cognitive science; mentor to 100 majors and minors in interdepartmental program; collaborated on administrative structure of program ESL test set developer, Duolingo 2017 • Developed test items of varying complexity for English language teaching program Linguistic annotator and analyst, Powerset (Microsoft) 2010 • Annotated large corpora of Internet-mined text for linguistic and semantic features; collaborated with remote team SKILLS AND EDUCATION Technical skills: R, Praat, LaTeX, Python, Jupyter, MatLab Analytic skills: Statistical modeling, data visualization, acoustic analysis, neural data processing, phonetic transcription Languages: English (native), Spanish (intermediate), Finnish (intermediate), Garifuna (fieldwork) Training: Science communication and outreach, translational research for pediatric medicine Volunteering: Lakeview Pantry (Jan.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I was raised in a small Jersey town (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to incite war. After distinguishing myself through hardy athletic pursuits and participating in musical groups that expanded my cultural horizons, I left the Garden State for college.
+While at Wellesley, I studied cognitive and linguistic sciences, and got my start in research with labs on and off campus.</description>
+    </item>
+    
+  </channel>
+</rss>
