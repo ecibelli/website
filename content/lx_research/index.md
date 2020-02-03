@@ -5,7 +5,7 @@ title:
 
 From 2009-2018, I was a researcher in linguistics, specializing in:
 
-+ **phonetics** (the study of perception and production of speech sounds),
++ **phonetics** (the study of the perception and production of speech sounds),
 + **psycholinguistics** (the study of real-time language processing, and how language and cognition affect one another), and
 + **neurolinguistics** (the study of the structure and function of the brain as it affects language).
 
@@ -75,10 +75,22 @@ How accurate is your perception and memory of physical stimuli? When it comes to
 
 *Collaborators:* <a href ="http://linguistics.berkeley.edu/~kjohnson">Keith Johnson</a>, <a href ="http://changlab.ucsf.edu/edward-chang/">Eddie Chang</a>, <a href="http://profiles.ucsf.edu/matthew.leonard">Matt Leonard</a>
 
-Measuring neural activity during langauge processing is a challenge - in part because it happens so quickly and across wide networks of the brain. A technique called electocorticography (ECoG) allows a rare look into the simultaneous spatial and temporal dimensions of language processing. We used this approach to look at the neural pathways used to process real words and word-like nonsense forms (e.g. "tesolivy", "piteretion") millisecond by millisecond, and millimeter by millimeter. 
+Measuring neural activity during language processing is a challenge - in part because it happens so quickly and across wide networks of the brain. A technique called electocorticography (ECoG) allows a rare look into the simultaneous spatial and temporal dimensions of language processing. We used this approach to look at the neural pathways used to process real words and word-like nonsense forms (e.g. "tesolivy", "piteretion") millisecond by millisecond, and millimeter by millimeter. 
 
 <font size = 2>
 <a href="papers/brainLx_cibelli2015.pdf">Cibelli, E.S., Leonard, M.K., Johnson, K., & Chang, E.F. (2015). The influence of lexical statistics on temporal lobe cortical dynamics during spoken word listening. Brain and Language 147, 66-75.</a>
 </font>
 
-## put the rest of the papers down here, since they're not all on the resumve
+-----
+
+**Speech and aging**
+
+*Collaborators:* <a href="http://linguistics.berkeley.edu/~gahl">Susanne Gahl</a>, 
+<a href="http://www.linguistics.northwestern.edu/people/current-graduate-students/">Kat Hall</a>, 
+<a href="http://linguistics.berkeley.edu/person/98">Ronald Sprouse</a></i>
+
+We know that the voice changes throughout childhood, and again late in life. But what happens during the longest span of life - early and middle adulthood? This question is a challenge to study, because it's rare to have recordings of a person's voice over many decades. To tackle this challenge, we measured speech from the Up! movies - a documentary series that has followed the same group of people every seven years of their lives. This corpus is freely available for language and speech researchers to use.
+
+<font size="2">
+<a href="http://www.linguistics.berkeley.edu/~gahl/upRev.pdf"> Gahl, S., Cibelli, E., Hall, K., and Sprouse, R. (2014). The "Up" corpus: A corpus of speech samples across adulthood. <i>Corpus Linguistics and Linguistic Theory</i> 10(2), 315-328.</a>
+</font>

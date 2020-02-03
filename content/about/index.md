@@ -1,7 +1,10 @@
 ---
 #date: "2019-03-29"
-title: About me
+title:
 ---
+
+<img src="placesIveLivedHorizontal.jpg" width="820&quot;" height="130">
+<font size="2"><i></i></font></p><p align="center"><font size="2"><i>The places I've called home. From left: Nutley, NJ; Wellesley College, MA; Galway, Ireland; Berkeley, CA; Chicago, IL</i></font>
 
 I was raised in <a href = "https://www.nutleynj.org/">a small Jersey town</a> (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to <a href="https://www.npr.org/templates/story/story.php?storyId=4706670">incite war</a>. After distinguishing myself through <a href="https://highschoolsports.nj.com/school/nutley-nutley/girlsbowling/">hardy athletic pursuits</a> and participating in musical groups that <a href="https://www.cedarpoint.com/">expanded my cultural horizons</a>, I left the Garden State for college.
 
@@ -9,4 +12,4 @@ While at Wellesley, I studied <a href="https://www.wellesley.edu/cogsci">cogniti
 
 In 2009, I bid the East Coast <a href="https://www.dunkindonuts.com/en">a bittersweet farewell</a> and headed west for <a href="https://lx.berkeley.edu/">grad school</a>. Despite being that asshole that complained about missing winter, I grew to love the <a href="https://www.berkeleybowl.com/">endless produce</a> and <a href="https://www.alltrails.com/trail/us/california/inspiration-point-to-wildcat-peak">hilly vistas</a> of California. When I wasn't in the lab, you could sometimes find me playing frisbee with my fellow Berkeley linguists (go Huckin' Wugs!)
 
-In 2015, our intrepid '94 Camry wagon carted me <a href="https://goo.gl/maps/HUiszm3fpGcEmuvi6">2000 miles to Chicago</a>, to pay my <a href="https://news.wttw.com/2019/01/30/dangerous-beauty-chiberia">winter debt</a>. I spent three years as a <a href="http://groups.linguistics.northwestern.edu/soundlab/v2/#!/">postdoc</a> and lecturer at Northwestern. These days, I spend my days as a data analyst focused on <a href="https://www.ingenuity-inc.org/">arts education</a> in city schools. Outside of work, you'll find me trying to keep warm by cooking with some success, baking with less, <a href="https://www.athlinks.com/athletes/315792270">running</a>, and <a href= "https://www.ravelry.com/people/anylit/">knitting</a> on the brown line.
+In 2015, our intrepid '94 Camry wagon carted me <a href="https://goo.gl/maps/HUiszm3fpGcEmuvi6">2000 miles to Chicago</a>, to pay my <a href="https://news.wttw.com/2019/01/30/dangerous-beauty-chiberia">winter debt</a>. I spent three years as a <a href="http://groups.linguistics.northwestern.edu/soundlab/v2/#!/">postdoc</a> and lecturer at Northwestern. These days, I spend my days as a data analyst focused on <a href="https://www.ingenuity-inc.org/">arts education</a> in city schools. Outside of work, you'll find me cooking, shortwave radio listening, <a href="https://www.athlinks.com/athletes/315792270">running</a>, and <a href= "https://www.ravelry.com/people/anylit/">knitting</a> on the brown line.

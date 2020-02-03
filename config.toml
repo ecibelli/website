@@ -68,19 +68,19 @@ pygmentsStyle = "pygments"
     name = "About me"
     url = "/about/"
     weight = 2
-  [[menu.nav]] 
-    name = "Data Projects"
-    url = "/projects/"
-    weight = 3
-  [[menu.nav]]
-    name = "Linguistics Research"
-    url = "/lx_research/"
-    weight = 4
   [[menu.nav]]
     name = "Resume"
     url = "/resume/" 
-    weight = 5
+    weight = 3
+  [[menu.nav]] 
+    name = "Data Projects"
+    url = "/projects/"
+    weight = 4
   [[menu.nav]]
-    name = "Fun"
-    url = "/fun/"
-    weight = 6
+    name = "Linguistics Research"
+    url = "/lx_research/"
+    weight = 5
+#  [[menu.nav]]
+#    name = "Fun"
+#    url = "/fun/"
+#    weight = 6

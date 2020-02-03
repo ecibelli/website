@@ -12,12 +12,40 @@
     
     <item>
       <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The places I&amp;rsquo;ve called home. From left: Nutley, NJ; Wellesley College, MA; Galway, Ireland; Berkeley, CA; Chicago, IL
+I was raised in a small Jersey town (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to incite war. After distinguishing myself through hardy athletic pursuits and participating in musical groups that expanded my cultural horizons, I left the Garden State for college.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fun/</guid>
+      <description>Maybe I will put something here at some point.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/lx_research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/lx_research/</guid>
       <description>From 2009-2018, I was a researcher in linguistics, specializing in:
- phonetics (the study of perception and production of speech sounds), psycholinguistics (the study of real-time language processing, and how language and cognition affect one another), and neurolinguistics (the study of the structure and function of the brain as it affects language).  This page is an overview of some of my projects during that time. You can find a full list of my published work here.</description>
+ phonetics (the study of the perception and production of speech sounds), psycholinguistics (the study of real-time language processing, and how language and cognition affect one another), and neurolinguistics (the study of the structure and function of the brain as it affects language).  This page is an overview of some of my projects during that time. You can find a full list of my published work here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Data projects coming soon! For now, some projects are available on my GitHub repo.</description>
     </item>
     
     <item>
@@ -26,19 +54,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resume/</guid>
-      <description>PERSONAL PROFILE Data analyst and speech scientist specializing in quantitative and computational projects, with domain expertise in linguistics and cognitive science.
+      <description>PERSONAL PROFILE Data analyst and speech scientist specializing in quantitative and computational projects. Technical expertise in data visualization, statistical modeling, and application building. Domain expertise in linguistics, acoustics, cognitive science, and public-sector collective impact work.
 EMPLOYMENT HISTORY Senior data analyst, Ingenuity Inc. (November 2018 - present)
- Maintain database of 600+ public schools and 1400+ non-profit organizations specializing in arts education in the city of Chicago, including programming, course offerings, personnel, and cross-organization networking connections Conduct regular analyses of arts education offerings and programs to support CPS district strategic initiatives, internal development and professional learning activities, and policy initiatives in the city of Chicago and state of Illinois Provide ad-hoc research reports and statistical analyses for non-profits working in the school system Develop custom applications to efficiently display data and provide reports to stakeholders  Lecturer, ViaX Education (August - December 2018, January 2020 - present)</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I was raised in a small Jersey town (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to incite war. After distinguishing myself through hardy athletic pursuits and participating in musical groups that expanded my cultural horizons, I left the Garden State for college.
-While at Wellesley, I studied cognitive and linguistic sciences, and got my start in research with labs on and off campus.</description>
+ Maintain database of arts programming in 650 schools and 1400+ non-profit organizations in the city of Chicago Conduct analyses to support district initiatives, internal strategies, and city- and state-wide education policy Provide ad-hoc reports and statistical analyses for non-profits working in the school system Develop custom applications to display data and interpret district trends to stakeholders  Lecturer, ViaX Education (August - December 2018, January 2020 - present)</description>
     </item>
     
   </channel>

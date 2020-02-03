@@ -3,15 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/fun/</loc>
+  </url>
+  
+  <url>
     <loc>/lx_research/</loc>
   </url>
   
   <url>
-    <loc>/resume/</loc>
+    <loc>/projects/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/resume/</loc>
   </url>
   
   <url>
