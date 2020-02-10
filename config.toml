@@ -1,86 +1,71 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
+# Title of your site
 title = "Emily Cibelli"
-theme = "cayman-hugo-theme"
 
-# Google analytics
-# googleAnalytics = "UA-123456789-1"
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "/"
+   
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright = ""
 
-# Disqus comments
-# disqusShortname = "yourdiscussshortname"
+############################
+## Advanced options below ##
+############################
 
-# Syntax highlighting
-pygmentsCodefences = true
-pygmentsStyle = "pygments"
+# Name of Academic theme folder in `themes/`.
+theme = "hugo-academic"
 
+# Get last modified date for content from Git?
+enableGitInfo = false
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
+removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+
+paginate = 10  # Number of items per page in paginated lists.
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+  [markup.highlight]
+    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3 
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+# Taxonomies.
 [taxonomies]
   tag = "tags"
-
-[permalinks]
-  post = "/:filename/"
-
-[params]
-  # Header text, can be markdown
-  project_name = "Emily Cibelli"
-  project_tagline = "[ɛ.mə.li sɪ.bɛ.li]"
-
-  # Date format for post list and single pages
-  # For more date formats see https://gohugo.io/functions/format/
-  dateFormat = "2006-01-02"
-
-  # Footer text, can be markdown
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme)."
-
-  # If true, the CSS/JS for Katex math typesetting are enabled
-  katex = true
-
-  # Breakpoints
-  large_breakpoint = "64em"
-  medium_breakpoint = "42em"
-
-  # Header colors
-  header_heading_color = "#ffffff"
-  header_background_color = "#19547b" 
-  header_background_color_secondary = "#ffd89b" 
-
-  # Text colors
-  section_headings_color = "#4d4d4d"
-  body_text_color = "#4d4d4d"
-  body_link_color = "#66c2a5"
-  blockquote_text_color = "#4d4d4d"
-
-  # Code colors
-  code_background_color = "#f3f6fa"
-  code_text_color = "#4d4d4d"
-
-  # Border colors
-  border_color = "#4d4d4d"
-  table_border_color = "#4d4d4d"
-  hr_border_color = "#4d4d4d"
-
-[menu]
-  [[menu.nav]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "About me"
-    url = "/about/"
-    weight = 2
-  [[menu.nav]]
-    name = "Resume"
-    url = "/resume/" 
-    weight = 3
-  [[menu.nav]] 
-    name = "Data Projects"
-    url = "/projects/"
-    weight = 4
-  [[menu.nav]]
-    name = "Linguistics Research"
-    url = "/lx_research/"
-    weight = 5
-#  [[menu.nav]]
-#    name = "Fun"
-#    url = "/fun/"
-#    weight = 6
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"

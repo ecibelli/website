@@ -1,62 +1,212 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homeio on Emily Cibelli</title>
+    <title>Emily Cibelli</title>
     <link>/</link>
-    <description>Recent content in Homeio on Emily Cibelli</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily Cibelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Emily Cibelli</title>
+      <link>/</link>
+    </image>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt;
+ feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/about/</guid>
-      <description>The places I&amp;rsquo;ve called home. From left: Nutley, NJ; Wellesley College, MA; Galway, Ireland; Berkeley, CA; Chicago, IL
-I was raised in a small Jersey town (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to incite war. After distinguishing myself through hardy athletic pursuits and participating in musical groups that expanded my cultural horizons, I left the Garden State for college.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/fun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/fun/</guid>
-      <description>Maybe I will put something here at some point.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/lx_research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/lx_research/</guid>
-      <description>From 2009-2018, I was a researcher in linguistics, specializing in:
- phonetics (the study of the perception and production of speech sounds), psycholinguistics (the study of real-time language processing, and how language and cognition affect one another), and neurolinguistics (the study of the structure and function of the brain as it affects language).  This page is an overview of some of my projects during that time. You can find a full list of my published work here.</description>
+      <description>&lt;img src=&#34;placesIveLivedHorizontal.jpg&#34; width=&#34;1230&#34; height=&#34;195&#34;&gt;
+&lt;p&gt;&lt;font size=&#34;2&#34;&gt;&lt;i&gt;&lt;/i&gt;&lt;/font&gt;&lt;p align=&#34;center&#34;&gt;&lt;font size=&#34;2&#34;&gt;&lt;i&gt;The places I&amp;rsquo;ve called home. From left: Nutley, NJ; Wellesley College, MA; Galway, Ireland; Berkeley, CA; Chicago, IL&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;I was raised in &lt;a href = &#34;https://www.nutleynj.org/&#34;&gt;a small Jersey town&lt;/a&gt; (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to &lt;a href=&#34;https://www.npr.org/templates/story/story.php?storyId=4706670&#34;&gt;incite war&lt;/a&gt;. After distinguishing myself through &lt;a href=&#34;https://highschoolsports.nj.com/school/nutley-nutley/girlsbowling/&#34;&gt;hardy athletic pursuits&lt;/a&gt; and participating in musical groups that &lt;a href=&#34;https://www.cedarpoint.com/&#34;&gt;expanded my cultural horizons&lt;/a&gt;, I left the Garden State for college.&lt;/p&gt;
+&lt;p&gt;While at Wellesley, I studied &lt;a href=&#34;https://www.wellesley.edu/cogsci&#34;&gt;cognitive and linguistic sciences&lt;/a&gt;, and got my start in research with labs &lt;a href=&#34;https://www.wellesley.edu/cogsci/lab&#34;&gt;on&lt;/a&gt; and &lt;a href=&#34;https://www.harvardlds.org/&#34;&gt;off&lt;/a&gt; campus. In my spare time, I danced in &lt;a href=&#34;http://ballroom.mit.edu/&#34;&gt;ballroom competitions&lt;/a&gt;, hung out at the &lt;a href = &#34;https://www.wellesley.edu/astronomy/whitin&#34;&gt;observatory&lt;/a&gt;, played the &lt;a href = &#34;https://www.wellesley.edu/music/performanceprogram/ensembles/carillon&#34;&gt;carillon&lt;/a&gt;, met &lt;a href=&#34;randyo.net&#34;&gt;this guy&lt;/a&gt;, and found myself in tunnels of both the &lt;a href=&#34;https://thewellesleynews.com/2016/03/09/wellesley-legends-students-recount-the-colleges-popular-myths-and-ghost-stories/&#34;&gt;steam&lt;/a&gt; and &lt;a href=&#34;https://www.wellesley.edu/about/collegehistory/traditions/marathonmonday&#34;&gt;scream&lt;/a&gt; varieties. In my junior year, I spent the spring studying at &lt;a href = &#34;http://www.nuigalway.ie/&#34;&gt;Galway&lt;/a&gt;, where I developed a taste for garlic chips and &lt;a href=&#34;https://monroes.ie/&#34;&gt;Murphy&amp;rsquo;s&lt;/a&gt;, and decided that umbrellas aren&amp;rsquo;t very useful.&lt;/p&gt;
+&lt;p&gt;In 2009, I bid the East Coast &lt;a href=&#34;https://www.dunkindonuts.com/en&#34;&gt;a bittersweet farewell&lt;/a&gt; and headed west for &lt;a href=&#34;https://lx.berkeley.edu/&#34;&gt;grad school&lt;/a&gt;. Despite being that asshole that complained about missing winter, I grew to love the &lt;a href=&#34;https://www.berkeleybowl.com/&#34;&gt;endless produce&lt;/a&gt; and &lt;a href=&#34;https://www.alltrails.com/trail/us/california/inspiration-point-to-wildcat-peak&#34;&gt;hilly vistas&lt;/a&gt; of California. When I wasn&amp;rsquo;t in the lab, you could sometimes find me playing frisbee with my fellow Berkeley linguists (go Huckin&amp;rsquo; Wugs!)&lt;/p&gt;
+&lt;p&gt;In 2015, our intrepid &amp;lsquo;94 Camry wagon carted me &lt;a href=&#34;https://goo.gl/maps/HUiszm3fpGcEmuvi6&#34;&gt;2000 miles to Chicago&lt;/a&gt;, to pay my &lt;a href=&#34;https://news.wttw.com/2019/01/30/dangerous-beauty-chiberia&#34;&gt;winter debt&lt;/a&gt;. I spent three years as a &lt;a href=&#34;http://groups.linguistics.northwestern.edu/soundlab/v2/#!/&#34;&gt;postdoc&lt;/a&gt; and lecturer at Northwestern. These days, I spend my days as a data analyst focused on &lt;a href=&#34;https://www.ingenuity-inc.org/&#34;&gt;arts education&lt;/a&gt; in city schools. Outside of work, you&amp;rsquo;ll find me cooking, shortwave radio listening, &lt;a href=&#34;https://www.athlinks.com/athletes/315792270&#34;&gt;running&lt;/a&gt;, and &lt;a href= &#34;https://www.ravelry.com/people/anylit/&#34;&gt;knitting&lt;/a&gt; on the brown line.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/projects/</guid>
-      <description>Data projects coming soon! For now, some projects are available on my GitHub repo.</description>
+      <description>&lt;p&gt;Data projects coming soon! For now, some projects are available on &lt;a href=&#34;https://github.com/ecibelli&#34;&gt;my GitHub repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description>&lt;p&gt;From 2009-2018, I was a researcher in linguistics, specializing in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;phonetics&lt;/strong&gt; (the study of the perception and production of speech sounds),&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;psycholinguistics&lt;/strong&gt; (the study of real-time language processing, and how language and cognition affect one another), and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;neurolinguistics&lt;/strong&gt; (the study of the structure and function of the brain as it affects language).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This page is an overview of some of my  projects during that time. You can find a full list of my published work &lt;a href = &#34;https://scholar.google.com/citations?user=4vfpQcMAAAAJ&amp;hl=en&#34;&gt;here&lt;/a&gt;. A handful of these projects have example code &lt;a href = &#34;https://github.com/ecibelli?tab=repositories&#34;&gt;hosted on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Speech biomarkers of mental illness&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Collaborators&lt;/em&gt;: &lt;a href=&#34;http://www.psychology.northwestern.edu/people/faculty/core/profiles/vijay-mittal.html&#34;&gt;Vijay Mittal&lt;/a&gt;, &lt;a href=&#34;http://faculty.wcas.northwestern.edu/matt-goldrick/&#34;&gt;Matt Goldrick&lt;/a&gt;, &lt;a href=&#34;http://u.cs.biu.ac.il/~jkeshet/&#34;&gt;Joseph Keshet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Can speech be used as a diagnostic tool in clinical psychology? Psychotic disorders like schizophrenia impact motor control, affecting posture and head and limb movement. There&amp;rsquo;s also some evidence for motor/motion disruptions in young adults who are at &lt;em&gt;risk&lt;/em&gt; for these disorders, but haven&amp;rsquo;t yet been diagnosed. Because speaking depends on a high degree of motor control, it&amp;rsquo;s plausible that these motor disruptions also impact speech. If so, the voice may represent an early warning, non-invasive tool to detect psychosis risk in young adults.&lt;/p&gt;
+&lt;font size = 2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href = &#34;papers/sichlingerCibelliGoldrickMittal.pdf&#34;&gt;Sichlinger, L., Cibelli, E., Goldrick, M., &amp;amp; Mittal, V. A. (2019). Clinical correlates of aberrant conversational turn-taking in youth at clinical high-risk for psychosis. &lt;em&gt;Schizophrenia Research&lt;/em&gt;, 204, 419.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vargas, T., Osborne, K. J., Cibelli, E. S., &amp;amp; Mittal, V. A. (2019). Separating hearing sensitivity from auditory perceptual abnormalities in clinical high risk (CHR) youth. &lt;em&gt;Schizophrenia Research&lt;/em&gt;, 204, 437-438.&lt;/li&gt;
+&lt;li&gt;&lt;a href= &#34;https://projectreporter.nih.gov/project_info_description.cfm?aid=9746454&amp;icde=44549007&#34;&gt; NIH 1R21MH119677-01A1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/font&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Acquiring speech sounds in a new language&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your native language(s) has a big impact on how you perceive and pronounce speech sounds. In some cases, this can make it hard to acquire sounds in a new language, especially if you start learning as an adult. In my dissertation, I explored some different ways to teach adult learners challenging sounds in a new language, focusing both on auditory training (helping you hear the differences between new sounds) and articulatory training (helping you position your tongue, lips, and larynx to pronounce them).&lt;/p&gt;
+&lt;font size = 2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href = &#34;papers/cibelli_phonetica2019.pdf&#34;&gt; Cibelli, E. (2019). Training Non-Native Consonant Production with Perceptual and Articulatory Cues. Phonetica, 1-28.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;papers/cibelli_dissertation.pdf&#34;&gt;Find all the gory details in my dissertation.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/font&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Automatic detection of cognitive difficulty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Collaborators&lt;/i&gt;: &lt;a href=&#34;http://faculty.wcas.northwestern.edu/matt-goldrick/&#34;&gt;Matt Goldrick&lt;/a&gt;, &lt;a href=&#34;https://pennstate.pure.elsevier.com/en/persons/rhonda-mudry&#34;&gt;Rhonda (McClain) Mudry&lt;/a&gt;, &lt;a href=&#34;http://u.cs.biu.ac.il/~jkeshet/&#34;&gt;Joseph Keshet&lt;/a&gt;, &lt;a href=&#34;http://adiyoss.github.io/&#34;&gt;Yossi Adi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Do cognitive challenges (e.g. speaking a second language, being an older speaker) leave detectible signs in speech? This project attempts to answer this by developing and using &lt;a href = &#34;https://github.com/MLSpeech/DeepPhoneticToolsTutorial&#34;&gt;automatic processing algorithms&lt;/a&gt; to detect subtle variations in speech. These subtle hints in pronunciation  may indicate that a speaker has a more demanding cognitive task than usual in finding the right word or putting a sentence together.&lt;/p&gt;
+&lt;font size = 2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href = &#34;papers/lexicalSelectionInteraction.pdf&#34;&gt;Goldrick, M., McClain, R., Cibelli, E., Adi, Y., Gustafson, E., Moers, C., &amp;amp; Keshet, J. (2018). The influence of lexical selection disruptions on articulation. &lt;em&gt;Journal of Experimental Psychology: Learning, Memory, and Cognition,&lt;/em&gt; 45(6), 1107–1141.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1610.07918.pdf&#34;&gt;Adi, Y., Keshet, J., Cibelli, E., &amp;amp; Goldrick, M. (2017, March). Sequence segmentation using joint RNN and structured prediction models. In  the &lt;i&gt;2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)&lt;/i&gt; (pp. 2422-2426). IEEE.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pdfs.semanticscholar.org/30ae/51e58bfb6998849caa5e6059b6970bb73062.pdf&#34;&gt;Adi, Y., Keshet, J., Cibelli, E., Gustafson, E., Clopper, C., &amp;amp; Goldrick, M. (2016). Automatic measurement of vowel duration via structured prediction. &lt;i&gt;The Journal of the Acoustical Society of America&lt;/i&gt; 140 (6), 4517-4527.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/font&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Color perception and categorization&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Collaborators:&lt;/i&gt; &lt;a href=&#34;http://lclab.berkeley.edu/regier/&#34;&gt;Terry Regier&lt;/a&gt;,
+&lt;a href=&#34;http://linguistics.berkeley.edu/~yangxu/&#34;&gt;Yang Xu&lt;/a&gt;, &lt;a href=&#34;http://research.clps.brown.edu/austerweil/&#34;&gt;Joe Austerweil&lt;/a&gt;, &lt;a href=&#34;http://cocosci.berkeley.edu/tom/&#34;&gt;Tom Griffiths&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How accurate is your perception and memory of physical stimuli? When it comes to color perception, your experience is sometimes (but not always!) affected by the language you speak. Our work in this domain suggests that you are most influenced by the categories in by your native language (&amp;ldquo;basic&amp;rdquo; color words like red, blue, and green) when cognitive demands are high. In those circumstances, we see speakers of different languages recalling and classifying the same color in different ways.&lt;/p&gt;
+&lt;p&gt;&lt;font size = &#34;2&#34;&gt;&lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158725&#34;&gt;Cibelli, E., Xu, Y., Austerweil, J. L., Griffiths, T. L., &amp;amp; Regier, T. (2016). The Sapir-Whorf Hypothesis and Probabilistic Inference: Evidence from the Domain of Color. &lt;em&gt;PloS One&lt;/em&gt;, 11(7), e0158725.&lt;/a&gt;
+&lt;br&gt;(*Co-first authors.)&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;The neural pathways of word recognition&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Collaborators:&lt;/em&gt; &lt;a href =&#34;http://linguistics.berkeley.edu/~kjohnson&#34;&gt;Keith Johnson&lt;/a&gt;, &lt;a href =&#34;http://changlab.ucsf.edu/edward-chang/&#34;&gt;Eddie Chang&lt;/a&gt;, &lt;a href=&#34;http://profiles.ucsf.edu/matthew.leonard&#34;&gt;Matt Leonard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Measuring neural activity during language processing is a challenge - in part because it happens so quickly and across wide networks of the brain. A technique called electocorticography (ECoG) allows a rare look into the simultaneous spatial and temporal dimensions of language processing. We used this approach to look at the neural pathways used to process real words and word-like nonsense forms (e.g. &amp;ldquo;tesolivy&amp;rdquo;, &amp;ldquo;piteretion&amp;rdquo;) millisecond by millisecond, and millimeter by millimeter.&lt;/p&gt;
+&lt;font size = 2&gt;
+&lt;a href=&#34;papers/brainLx_cibelli2015.pdf&#34;&gt;Cibelli, E.S., Leonard, M.K., Johnson, K., &amp; Chang, E.F. (2015). The influence of lexical statistics on temporal lobe cortical dynamics during spoken word listening. Brain and Language 147, 66-75.&lt;/a&gt;
+&lt;/font&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Speech and aging&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Collaborators:&lt;/em&gt; &lt;a href=&#34;http://linguistics.berkeley.edu/~gahl&#34;&gt;Susanne Gahl&lt;/a&gt;, 
+&lt;a href=&#34;http://www.linguistics.northwestern.edu/people/current-graduate-students/&#34;&gt;Kat Hall&lt;/a&gt;, 
+&lt;a href=&#34;http://linguistics.berkeley.edu/person/98&#34;&gt;Ronald Sprouse&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;We know that the voice changes throughout childhood, and again late in life. But what happens during the longest span of life - early and middle adulthood? This question is a challenge to study, because it&amp;rsquo;s rare to have recordings of a person&amp;rsquo;s voice over many decades. To tackle this challenge, we measured speech from the Up! movies - a documentary series that has followed the same group of people every seven years of their lives. This corpus is freely available for language and speech researchers to use.&lt;/p&gt;
+&lt;font size=&#34;2&#34;&gt;
+&lt;a href=&#34;http://www.linguistics.berkeley.edu/~gahl/upRev.pdf&#34;&gt; Gahl, S., Cibelli, E., Hall, K., and Sprouse, R. (2014). The &#34;Up&#34; corpus: A corpus of speech samples across adulthood. &lt;i&gt;Corpus Linguistics and Linguistic Theory&lt;/i&gt; 10(2), 315-328.&lt;/a&gt;
+&lt;/font&gt;
+</description>
     </item>
     
     <item>
       <title></title>
       <link>/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/resume/</guid>
-      <description>PERSONAL PROFILE Data analyst and speech scientist specializing in quantitative and computational projects. Technical expertise in data visualization, statistical modeling, and application building. Domain expertise in linguistics, acoustics, cognitive science, and public-sector collective impact work.
-EMPLOYMENT HISTORY Senior data analyst, Ingenuity Inc. (November 2018 - present)
- Maintain database of arts programming in 650 schools and 1400+ non-profit organizations in the city of Chicago Conduct analyses to support district initiatives, internal strategies, and city- and state-wide education policy Provide ad-hoc reports and statistical analyses for non-profits working in the school system Develop custom applications to display data and interpret district trends to stakeholders  Lecturer, ViaX Education (August - December 2018, January 2020 - present)</description>
+      <description>&lt;h3 id=&#34;personal-profile&#34;&gt;PERSONAL PROFILE&lt;/h3&gt;
+&lt;p&gt;Data analyst and speech scientist specializing in quantitative and computational projects. Technical expertise in data visualization, statistical modeling, and application building. Domain expertise in linguistics, acoustics, cognitive science, and public-sector collective impact work.&lt;/p&gt;
+&lt;h3 id=&#34;employment-history&#34;&gt;EMPLOYMENT HISTORY&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Senior data analyst&lt;/strong&gt;, &lt;a href=&#34;https://ingenuity-inc.org&#34;&gt;Ingenuity Inc.&lt;/a&gt; (November 2018 - present)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintain database of &lt;a href=&#34;https://chicago.artlookmap.com&#34;&gt;arts programming&lt;/a&gt; in 650 schools and 1400+ non-profit organizations in the city of Chicago&lt;/li&gt;
+&lt;li&gt;Conduct analyses to support district initiatives, internal strategies, and city- and state-wide education policy&lt;/li&gt;
+&lt;li&gt;Provide ad-hoc reports and statistical analyses for non-profits working in the school system&lt;/li&gt;
+&lt;li&gt;Develop custom applications to display data and interpret district trends to stakeholders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Lecturer&lt;/strong&gt;, &lt;a href=&#34;htps://viax.org&#34;&gt;ViaX Education&lt;/a&gt; (August - December 2018, January 2020 - present)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop college courses for online education company&lt;/li&gt;
+&lt;li&gt;Advise student projects and teach research, statistical, and programming skills&lt;/li&gt;
+&lt;li&gt;Provide guidance on higher education admissions, with a track record of successful student placement in U.S. graduate programs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Postdoctoral research associate&lt;/strong&gt;, &lt;a href=&#34;https://linguistics.northwestern.edu&#34;&gt;Northwestern University&lt;/a&gt; (2015 - 2018)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ran acoustic and statistical analyses of linguistic data collected in the lab and via large-scale lingusitic corpora&lt;/li&gt;
+&lt;li&gt;Implemented speech algorithms and processing pipelines to semi-automatically parse acoustic data&lt;/li&gt;
+&lt;li&gt;Wrote scientific papers and reviewed articles in scientific journals&lt;/li&gt;
+&lt;li&gt;Secured grant funding via national and internal competitions&lt;/li&gt;
+&lt;li&gt;Mentored undergraduate/graduate student researchers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Lecturer and undergraduate advisor&lt;/strong&gt;, &lt;a href=&#34;https://linguistics.northwestern.edu&#34;&gt;Northwestern University&lt;/a&gt; (2015 - 2017)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and taught college courses of 20-100 students in linguistics&lt;/li&gt;
+&lt;li&gt;Mentor to 100 majors and minors in interdepartmental cognitive science program&lt;/li&gt;
+&lt;li&gt;Collaborated on administrative structure of programming and courses in both departments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Contracted linguist&lt;/strong&gt;, various organizations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Appen&lt;/em&gt; (2018): Created parses and annotations to support the development of natural language understanding and natural language generation systems in collaboration with large remote team&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Duolingo&lt;/em&gt; (2017): Developed test items of varying grammatical and lexical complexity for English language teaching program&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Powerset/Microsoft&lt;/em&gt; (2010): Annotated large corpora of Internet-mined text for linguistic and semantic features in collaboration with remote-based team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education-and-skills&#34;&gt;EDUCATION AND SKILLS&lt;/h2&gt;
+&lt;p&gt;Ph.D. in Linguistics, &lt;a href=&#34;https://lx.berkeley.edu&#34;&gt;University of California, Berkeley&lt;/a&gt; (2015)\&lt;br&gt;
+M.A. in Linguistics, &lt;a href=&#34;https://lx.berkeley.edu&#34;&gt;University of California, Berkeley&lt;/a&gt; (2011)\&lt;br&gt;
+B.A. in Cognitive and Linguistic Sciences, Wellesley College (2009)\&lt;br&gt;
+Visiting student, National University of Ireland, Galway (2008)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technical skills&lt;/strong&gt;: R (including tidy, shiny, dbplyr, ggplot2, lme4, markdown, blogdown), SQL, Praat, LaTeX, Python, Jupyter, MatLab\&lt;br&gt;
+&lt;strong&gt;Analytic skills&lt;/strong&gt;: Statistical modeling, data visualization, data app construction, acoustic speech analysis, neural data processing, phonetic transcription\&lt;br&gt;
+&lt;strong&gt;Languages&lt;/strong&gt;: English (native), Spanish (intermediate classroom), Finnish (beginning classroom), Garifuna (fieldwork)\&lt;br&gt;
+&lt;strong&gt;Training&lt;/strong&gt;: &lt;a href=&#34;http://rsg.northwestern.edu/&#34;&gt;Science communication and outreach&lt;/a&gt;, &lt;a href = &#34;https://www.nucats.northwestern.edu/education-and-career-development/career-development-awards/tl1/index.html&#34;&gt;translational research for pediatric medicine&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;research-highlights&#34;&gt;RESEARCH HIGHLIGHTS&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Grant funding&lt;/strong&gt;: Secured $600,000 in national (NSF, NIH) and university funding to support research in data science, linguistics, psychology, and neuroscience. Awarded a NSF Graduate Research Fellowship (2010-2015).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ad-hoc reviewer:&lt;/strong&gt; ArtsEdSearch, Cognition, Cognitive Science Society, Second Language Research, Phonetica, Neuropsychologia&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selected publications and reports:&lt;/strong&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;user=4vfpQcMAAAAJ&amp;view_op=list_works&amp;sortby=pubdate&#34;&gt;More details here.&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cibelli, E. (2019)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ingenuity, Inc. (2019). &lt;a href=&#34;https://www.ingenuity-inc.org/state-of-the-arts&#34;&gt;2017-18 State of the Arts in Chicago Public Schools.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sichlinger, L., Cibelli, E., Mittal, V., &amp;amp; Goldrick, M. (2019). Clinical correlates of aberrant conversational turn-taking in youth at clinical high-risk for psychosis. Schizophrenia Research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;papers/lexicalSelectionInteraction.pdf&#34;&gt;Goldrick, M., McClain, R., Cibelli, E., Adi, Y., Gustafson, E., Moers, C., &amp;amp; Keshet, J. (2018). The influence of lexical selection disruptions on articulation. Journal of Experimental Psychology: Learning, Memory, and Cognition, 45(6), 1107-1141.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adi, Y., Keshet, J., Cibelli, E., Gustafson, E., Clopper, C., and Goldrick, M. (2016). Automatic measurement of vowel duration via structured prediction. Journal of the Acoustical Society of America 140 (6), 4517-4527.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;papers/cibelli_etAl_plosOne_2016_sapirWhorfProbabilisticInference.pdf&#34;&gt;Cibelli, E.*, Xu, Y.*, Austerweil, J., Griffiths, T., and Regier, T. (2016). The Sapir-Whorf hypothesis and probabilistic inference: Evidence from the domain of color. PLOS ONE, 11.7, e0158725.&lt;/a&gt; &lt;font size = 2&gt;*Co-first authors.&lt;/font&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;papers/brainLx_cibelli2015.pdf&#34;&gt;Cibelli, E.S., Leonard, M.K., Johnson, K., &amp;amp; Chang, E.F. (2015). The influence of lexical statistics on temporal lobe cortical dynamics during spoken word listening. Brain and Language 147, 66-75.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

@@ -3,8 +3,9 @@
 title:
 ---
 
-<img src="placesIveLivedHorizontal.jpg" width="820&quot;" height="130">
-<font size="2"><i></i></font></p><p align="center"><font size="2"><i>The places I've called home. From left: Nutley, NJ; Wellesley College, MA; Galway, Ireland; Berkeley, CA; Chicago, IL</i></font>
+<img src="placesIveLivedHorizontal.jpg" width="1230" height="195">
+
+<font size="2"><i></i></font><p align="center"><font size="2"><i>The places I've called home. From left: Nutley, NJ; Wellesley College, MA; Galway, Ireland; Berkeley, CA; Chicago, IL</i></font>
 
 I was raised in <a href = "https://www.nutleynj.org/">a small Jersey town</a> (exit 151), a location which provided me with a view of the Manhattan skyline, a rich inventory of American English vowels, and enough pizzerias to <a href="https://www.npr.org/templates/story/story.php?storyId=4706670">incite war</a>. After distinguishing myself through <a href="https://highschoolsports.nj.com/school/nutley-nutley/girlsbowling/">hardy athletic pursuits</a> and participating in musical groups that <a href="https://www.cedarpoint.com/">expanded my cultural horizons</a>, I left the Garden State for college.
 
