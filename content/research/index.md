@@ -62,7 +62,7 @@ Do cognitive challenges (e.g. speaking a second language, being an older speaker
 **Color perception and categorization**
 
 <i>Collaborators:</i> <a href="http://lclab.berkeley.edu/regier/">Terry Regier</a>,
-<a href="http://linguistics.berkeley.edu/~yangxu/">Yang Xu</a>, <a href="http://research.clps.brown.edu/austerweil/">Joe Austerweil</a>, <a href="http://cocosci.berkeley.edu/tom/">Tom Griffiths</a>
+<a href="http://www.cs.toronto.edu/~yangxu/">Yang Xu</a>, <a href="https://alab.psych.wisc.edu/">Joe Austerweil</a>, <a href="http://cocosci.berkeley.edu/tom/">Tom Griffiths</a>
 
 How accurate is your perception and memory of physical stimuli? When it comes to color perception, your experience is sometimes (but not always!) affected by the language you speak. Our work in this domain suggests that you are most influenced by the categories in by your native language ("basic" color words like red, blue, and green) when cognitive demands are high. In those circumstances, we see speakers of different languages recalling and classifying the same color in different ways. 
 

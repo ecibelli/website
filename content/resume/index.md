@@ -55,7 +55,7 @@ Visiting student, National University of Ireland, Galway (2008)
 
 ### RESEARCH HIGHLIGHTS
 
-**Grant funding**: Secured $600,000 in national (NSF, NIH) and university funding to support research in data science, linguistics, psychology, and neuroscience. Awarded a NSF Graduate Research Fellowship (2010-2015).
+**Grant funding**: Secured $600,000 in federal (<a href="https://www.nsfgrfp.org/">NSF</a>, <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9746454&icde=44549007">NIH</a>) and university funding to support research in data science, linguistics, psychology, and neuroscience. 
 
 **Ad-hoc reviewer:** ArtsEdSearch, Cognition, Cognitive Science Society, Second Language Research, Phonetica, Neuropsychologia
 
