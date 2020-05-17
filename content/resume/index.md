@@ -62,7 +62,7 @@ Visiting student, National University of Ireland, Galway (2008)
 **Selected publications and reports:**
 <a href="https://scholar.google.com/citations?hl=en&user=4vfpQcMAAAAJ&view_op=list_works&sortby=pubdate">More details here.</a>
 
-+ Cibelli, E. (2019)
++ Cibelli, E. (2020). Training non-native consonant production with perceptual and articulatory cues. *Phonetica* 77 (1), 1-28.
 
 + Ingenuity, Inc. (2019). <a href="https://www.ingenuity-inc.org/state-of-the-arts">2017-18 State of the Arts in Chicago Public Schools.</a>
 

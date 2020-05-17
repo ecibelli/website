@@ -1,0 +1,318 @@
+---
+title: "Emily Cibelli's resume"
+author: Emily Cibelli
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    # include my custom CSS file via the css option
+    css: ["my_resume.css", "resume"]
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+ - emily.cibelli@gmail.com
+ - [https://emilycibelli.com](https://emilycibelli.com) 
+ - [github.com/ecibelli](https://github.com/ecibelli) 
+ - +1 973-368-3867
+<br/>
+<br/>
+
+Personal Profile {#skills}
+--------------------------------------------------------------------------------
+Data analyst and speech scientist specializing in quantitative and computational projects. 
+
+Technical expertise in data visualization, statistical modeling, and application building. 
+
+Domain expertise in linguistics, acoustics, cognitive science, and public-sector collective impact work. 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+### AVAILABILITY
+I am looking for positions in the **San Francisco Bay Area** or remote roles starting in September-October 2020.
+
+<br/>
+<font size = 1>*Built with [**pagedown**](https://github.com/rstudio/pagedown). Last updated `r Sys.Date()`.*</font>
+
+
+Main
+================================================================================
+
+Emily Cibelli {#title}
+--------------------------------------------------------------------------------
+
+### [ˈɛ.mə.li sɪ.ˈbɛ.li]
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Senior data analyst, [Ingenuity Inc.](https://ingenuity-inc.org)
+
+N/A
+
+N/A
+
+2018-present
+
+- Maintain [database of the arts](https://chicago.artlookmap.com) in 650 schools and 1400+ non-profit organizations
+- Conduct analyses to support initiatives and city and state education policy 
+- Provide ad-hoc reports and data visualizations for non-profits and philanthropies
+- Develop custom applications and dashboards to support data-driven decision-making
+
+### Lecturer, [ViaX Education](https://viax.org)
+
+N/A
+
+N/A
+
+2018-present
+
+- Develop and teach online research courses and tutorials for undergraduates
+- Advise student projects and teach research, statistical, and programming skills
+- Provide guidance on higher education admissions and conference presentations
+
+### Postdoctoral research associate and lecturer, [Northwestern University](https://linguistics.northwestern.edu)
+
+N/A
+
+N/A
+
+2015-2018
+
+- Designed experiments and ran statistical analyses of linguistic data and corpora
+- Implemented speech algorithms and processing pipelines for acoustic speech data
+- Secured $500K in internal and national (NIH) grant funding to support research
+- Taught linguistics courses and provided advising to 100+ cognitive science majors
+
+### Contracted linguist
+
+N/A
+
+N/A
+
+2010-2018
+
+- *[Appen](https://appen.com/)* (2018): Created parses of text data to support the development of natural language understanding/generation systems in collaboration with large remote team
+- *[Duolingo](https://www.duolingo.com/)* (2017): Developed test items of varying grammatical and lexical complexity for English language teaching program
+- *[Powerset](https://www.crunchbase.com/organization/powerset#section-overview)* (2010): Annotated semantic features in corpora to support development of NLP-based search engine
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of California, Berkeley
+
+Ph.D. in Linguistics
+
+Berkeley, CA
+
+2015
+
+### University of California, Berkeley
+
+M.A. in Linguistics
+
+Berkeley, CA
+
+2011
+
+### Wellesley College
+
+B.A. in Cognitive and Linguistic Sciences
+
+Wellesley, MA
+
+2009
+
+### National University of Ireland, Galway
+
+Visiting student
+
+Galway, Ireland
+
+2008
+
+
+<!-- Selected Projects and Code {data-icon=project-diagram} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### [State of the Arts in Chicago Public Schools](https://www.ingenuity-inc.org/data-research/state-of-the-arts-reports/2017-18-state-of-the-arts-report/) -->
+
+<!-- A data-driven annual report capturing trends in arts education in Chicago Public schools, including instructional resources, partnerships with non-profits in the arts sector, and geographic and demographic trends in students' access to high-quality arts instruction. -->
+
+<!-- N/A -->
+
+<!-- 2019 -->
+
+
+<!-- ### [Tweeting about the Yankees](https://github.com/ecibelli/yankeesTweets) -->
+
+<!-- A sample instructional Python script developed for a student conducting a research project on sentiment analysis. The script walks through the process of collecting raw data, doing basic text cleaning, and tagging tweets for positive or negative valence.  -->
+
+<!-- N/A -->
+
+<!-- 2018 -->
+
+
+<!-- ### [Modeling Pause Duration as a Mental Health Symptom](https://github.com/ecibelli/turnTaking_psychosis) -->
+
+<!-- Statistical code (R) for the analyses in [Sichlinger et al. (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6395525/). The scripts walk through two linear mixed-effects regression models, which assess whether adolescents at high risk for psychotic disorders produce pauses of unusual length during speech, compared to healthy age-matched peers, and whether pause duration is related to symptom severity.  -->
+
+<!-- N/A -->
+
+<!-- 2018 -->
+
+
+Skills {data-icon=wrench}
+--------------------------------------------------------------------------------
+
+### Technical
+
+R (including tidyverse, shiny, dbplyr, ggplot2, lme4, markdown), SQL, Praat, LaTeX, Python, Jupyter, MatLab
+
+N/A
+
+N/A 
+
+### Analytic
+
+Statistical modeling, data visualization, data app construction, acoustic speech analysis, neural data processing, phonetic transcription
+
+N/A
+
+N/A 
+
+
+### Languages
+
+English (native), Spanish (intermediate classroom), Finnish (beginning classroom), Garifuna (fieldwork)
+
+N/A
+
+N/A
+
+</br>
+
+Selected Publications and Reports {data-icon=book-open}
+--------------------------------------------------------------------------------
+
+
+###  Training non-native consonant production with perceptual and articulatory cues
+
+Cibelli, E. *Phonetica 77* (1), 1-28.
+
+N/A
+
+2020
+
+### [State of the Arts in Chicago Public Schools, 2017-18](https://www.ingenuity-inc.org/data-research/state-of-the-arts-reports/2017-18-state-of-the-arts-report/)
+
+Ingenuity, Inc. Chicago Public Schools Progress Report, 2017-18. 
+
+N/A
+
+2019
+
+
+### [Clinical correlates of aberrant conversational turn-taking in youth at clinical high-risk for psychosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6395525/)
+
+Sichlinger, L., Cibelli, E., Mittal, V., & Goldrick, M. *Schizophrenia Research 204*, 419.
+
+N/A
+
+2019
+
+###  [The influence of lexical selection disruptions on articulation](https://pure.mpg.de/rest/items/item_3157299_1/component/file_3157300/content)
+
+Goldrick, M., McClain, R., Cibelli, E., Adi, Y., Gustafson, E., Moers, C., & Keshet, J. *Journal of Experimental Psychology: Learning, Memory, and Cognition 45*(6), 1107-1141.
+
+N/A
+
+2018
+
+### [Automatic measurement of vowel duration via structured prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5392101/)
+
+Adi, Y., Keshet, J., Cibelli, E., Gustafson, E., Clopper, C., and Goldrick, M. *Journal of the Acoustical Society of America 140* (6), 4517-4527.
+
+N/A
+
+2016
+
+### [The Sapir-Whorf hypothesis and probabilistic inference: Evidence from the domain of color](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0158725)
+
+Cibelli, E., Xu, Y., Austerweil, J., Griffiths, T., and Regier, T. *PLOS ONE, 11.7*, e0158725.
+
+N/A
+
+2016
+
+### [The influence of lexical statistics on temporal lobe cortical dynamics during spoken word listening](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4521602/)
+
+Cibelli, E.S., Leonard, M.K., Johnson, K., & Chang, E.F. *Brain and Language 147*, 66-75.
+
+N/A
+
+2015
+
+</br>
+
+
+
+Service and Volunteer Work {data-icon=hands-helping}
+--------------------------------------------------------------------------------
+
+### Review panel member
+
+[ArtsEdSearch](https://www.artsedsearch.org/about-us/artsedsearch-review-panel/)
+
+N/A
+
+2019-2020
+
+### Volunteer
+
+[Lakeview Pantry](https://www.lakeviewpantry.org/)
+
+N/A
+
+2018       
+
+### Ad-hoc reviewer
+
+[Cognitive Science Society](https://cognitivesciencesociety.org/), [Second Language Research](https://journals.sagepub.com/home/slr), [Cognition](https://www.journals.elsevier.com/cognition), [Neurospychologia](https://www.journals.elsevier.com/neuropsychologia), [Phonetica](https://www.karger.com/Journal/Home/224275)
+
+N/A
+
+2016-2018
+
+### Volunteer data scientist
+
+[Chi Hack Night](https://chihacknight.org/)
+
+N/A
+
+2017  
+
+
+### Office manager
+
+[Berkeley Linguistics Society](http://linguistics.berkeley.edu/bls/)
+
+N/A
+
+2011
+
+

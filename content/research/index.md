@@ -36,8 +36,8 @@ Your native language(s) has a big impact on how you perceive and pronounce speec
 
 <font size = 2>
 
-+ <a href = "papers/cibelli_phonetica2019.pdf"> Cibelli, E. (2019). Training Non-Native Consonant Production with Perceptual and Articulatory Cues. Phonetica, 1-28.</a> 
-+ <a href="papers/cibelli_dissertation.pdf">Find all the gory details in my dissertation.</a>
++ <a href = "papers/cibelli2020_SLR_crossModalTraining.pdf"> Cibelli, E. (2020). Articulatory and perceptual cues to non-native phoneme perception: Cross-modal training for early learners. Second Language Research.</a> 
++ <a href = "papers/cibelli_phonetica2019.pdf"> Cibelli, E. (2020). Training Non-Native Consonant Production with Perceptual and Articulatory Cues. Phonetica 77 (1), 1-28.</a> 
 
 </font>
 

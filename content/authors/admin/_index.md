@@ -16,7 +16,7 @@ bio: This is another bio section I'm not sure why.
 #   - course: Visiting student
 #     institution: NUI Galway
 #     year: 2008
-email: "emily.cibelli@gmail.com"
+#email: "emily.cibelli@gmail.com"
 interests:
 - Data visualization
 - Data analytics
@@ -26,14 +26,14 @@ interests:
 - Cognitive science
 name: Emily Cibelli
 organizations:
-- name: emily.cibelli (at) gmail.com
-  url: 
-role: Data analyst and linguist
+- name: [ɛ.mə.li sɪ.bɛ.li]
+- name: Data analyst and linguist
+
 
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'
+- icon: envelope
+  icon_pack: fas
+  link: mailto:emily.cibelli@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/emilycibelli
@@ -53,4 +53,8 @@ superuser: true
 
 ---
 
-Hello this is a bio of me.
+Hi there! I'm Emily, a linguist by training who currently works in data analysis in the non-profit education sector. This page mostly has information about my professional work, but there's some personal tidbits too.
+
+[testing](/static/resume_pg/resume_cibelli_may2020.rmd)
+
+**Update, May 2020**: I will be moving back to the San Francisco Bay Area in September 2020, and will be looking for a new position at that time (both Bay Area and remote roles). I'm open to a variety of roles in tech, research, higher ed, and the non-profit/advocacy world. If you'd like to connect about opportunities, please reach out!  
