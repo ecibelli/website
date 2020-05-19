@@ -1,13 +1,6 @@
 ---
-#date: "2019-03-29"
 title:
----
-
-
-### Newsletter
-For a window into my personal interests, subscribe to my TinyLetter, [Chibs Chats](tinyletter.com/emilycibelli). Topics include cooking, the joys of analog communication methods, and mundane anecdotes.
-
----
+--- 
 
 ### The Ballad of Marco Polo
 *Stephen Vincent Benét*

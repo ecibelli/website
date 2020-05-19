@@ -3,35 +3,39 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "About Me"
-  url = "/about"
-  weight = 10
 
 [[main]]
   name = "Resume"
   url = "/resume"
   weight = 20
-
-[[main]]
-  name = "Data Projects"
-  url = "/projects"
-  weight = 30
-
-[[main]]
-  name = "Linguistics Research"
-  url = "/research"
-  weight = 40
- 
-[[main]]
-  name = "Personal"
-  url = "/fun"
-  weight = 50
   
 [[main]]
-  name = "Pagedown resume"
-  url = "/resume_pg/resume_cibelli_may2020"
-  weight = 60
+  name = "|"
+  weight = 25
+
+[[main]]
+  name = " Data Projects"
+  url = "/projects"
+  weight = 30
+  
+[[main]]
+  name = "  |"
+  weight = 35
+
+[[main]]
+  name = " Linguistics Research"
+  url = "/research"
+  weight = 40
+  
+[[main]]
+  name = "  |  "
+  weight = 45
+ 
+[[main]]
+  name =" Personal"
+  url = "/about"
+  weight = 50
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

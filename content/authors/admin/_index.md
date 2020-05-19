@@ -2,21 +2,7 @@
 authors:
 - admin
 bio: This is another bio section I'm not sure why. 
-# education:
-#   courses:
-#   - course: PhD in Linguistics
-#     institution: UC Berkeley
-#     year: 2015
-#   - course: MA in Linguistics
-#     institution: UC Berkeley
-#     year: 2011
-#   - course: BA in Cognitive and Linguistic Sciences
-#     institution: Wellesley College
-#     year: 2009
-#   - course: Visiting student
-#     institution: NUI Galway
-#     year: 2008
-#email: "emily.cibelli@gmail.com"
+
 interests:
 - Data visualization
 - Data analytics
@@ -54,7 +40,5 @@ superuser: true
 ---
 
 Hi there! I'm Emily, a linguist by training who currently works in data analysis in the non-profit education sector. This page mostly has information about my professional work, but there's some personal tidbits too.
-
-[testing](/static/resume_pg/resume_cibelli_may2020.rmd)
 
 **Update, May 2020**: I will be moving back to the San Francisco Bay Area in September 2020, and will be looking for a new position at that time (both Bay Area and remote roles). I'm open to a variety of roles in tech, research, higher ed, and the non-profit/advocacy world. If you'd like to connect about opportunities, please reach out!  
