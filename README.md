@@ -5,5 +5,9 @@ Notes to myself to remember how to edit content within the hugo-academic/blogdow
  - content/authors/admin/_index.md contains the content for the home page, including main text, interests, and contain icons/links.
  - config/_default/menus.toml sets up the top bar menu links.
  - themes/hugo-academic/asset/images/icon.png to set favicon (icon appearing in tab view of browser).
+
+old/ contains some previous attempts to launch this site, as well as the HTML files for my Northwestern postdoc website (previously at faculty.wcas.northwestern.edu/~esc642)
  
-PDF resume code is in separate pagedown resume repository.
+PDF resume code is in separate pagedown resume repository.
+
+

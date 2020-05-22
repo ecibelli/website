@@ -1,0 +1,133 @@
+
+body{
+margin:0;
+padding:0;
+line-height: 1.25em; 
+}
+
+b{font-size: 110%;}
+em{color: red;}
+
+#maincontainer{
+font: 15px 'Trebuchet MS', 'Candara', 'Calibri', sans-serif;
+width: 840px; /*Width of main container*/
+margin: 0 auto; /*Center container on page*/
+}
+
+#topsection{
+margin-top: 10px;
+height: 155px; /*Height of top section*/
+text-align: center;
+}
+
+#topsection h1{
+margin: 0;
+padding-top: 20px;
+}
+
+
+#contentwrapper{
+color: #400000;
+float: left;
+width: 100%;
+}
+
+#contentcolumn{
+color: #400000;
+margin-top: 15px;
+margin-right: 260px; /*Set left margin to RightColumnWidth*/
+padding-right: 30px;
+}
+
+#contentcolumn a{
+color: #52527A;
+}
+
+#contentcolumn2{ /*For use with no right column*/
+color: #400000;
+margin-top: 12px;
+margin-bottom: 15px;
+}
+
+#contentcolumn2 a{
+color: #52527A;
+}
+
+
+#rightcolumn{
+color: #400000;
+float: right;
+width: 260px; /*Width of left column*/
+margin-top: 20px;
+margin-left: -840px; /*Set left margin to -(MainContainerWidth)*/
+background: white;
+font: 11px 'Trebuchet MS', 'Candara', 'Calibri', sans-serif;
+}
+
+#footer{
+clear: left;
+width: 100%;
+background: white;
+color: #400000;
+text-align: center;
+padding: 7px 0;
+font-size: 18px;
+}
+
+#footer a{
+color: #52527A;
+}
+
+#footer2{
+clear: left;
+width: 100%;
+background: white;
+color: #400000;
+text-align: center;
+padding: 4px 0;
+font-size: 11px;
+}
+
+#footer2 a{
+color: #52527A;
+}
+
+.innertube{
+margin: 10px; /*Margins for inner DIV inside each column (to provide padding)*/
+margin-top: 3;
+}
+
+.underlinemenu{
+font-weight: bold;
+width: 100%;
+}
+
+.underlinemenu ul{
+padding: 20px 0 7px 0; /*6px should equal top padding of "ul li a" below, 7px should equal bottom padding + bottom border of "ul li a" below*/
+margin: 0;
+text-align: center; /*set value to "left", "center", or "right"*/
+}
+
+.underlinemenu ul li{
+display: inline;
+}
+
+.underlinemenu ul li a{
+color: #400000;
+padding: 20px 3px 4px 3px; /*top padding is 6px, bottom padding is 4px*/
+margin-right: 60px; /*spacing between each menu link*/   
+text-decoration: none;
+border-bottom: 3px solid maroon; /*bottom border is 3px*/
+}
+
+.underlinemenu ul li a:hover, .underlinemenu ul li a.selected{
+border-bottom-color: gray;
+}
+
+h1 { 'Trebuchet MS', 'Candara', 'Calibri', sans-serif; font-size:220%; color: #52527A;}
+h2 {'Trebuchet MS', 'Candara', 'Calibri', sans-serif; font-size:120%; color: #400000;}
+h3 { 'Arial', 'Arial', 'Arial', sans-serif; font-size:100%; color: #52527A; line-height:2px;}
+h4 { 'Trebuchet MS', 'Candara', 'Calibri', sans-serif; font-size:97%; color: #52527A;}
+h5 {font-weight:bold; 'Trebuchet MS', 'Candara', 'Calibri', sans-serif; font-size:125%; color: #52527A;  line-height:1px;}
+h6 {font-weight:normal; 'Trebuchet MS', 'Candara', 'Calibri', sans-serif; font-size:100%; color: #52527A}
+
