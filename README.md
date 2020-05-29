@@ -12,4 +12,4 @@ old/ contains some previous attempts to launch this site, as well as the HTML fi
  
 PDF resume code is in separate pagedown resume repository.
 
-Deployed to emilycibelli.netlify.app
+Deployed to emilycibelli.netlify.app; primary domain [emilycibelli.com](https://emilycibelli.com).
