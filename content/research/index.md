@@ -21,6 +21,7 @@ Can speech be used as a diagnostic tool in clinical psychology? Psychotic disord
 
 <font size = 2>
 
++ [Click for a public-friendly intro video to the topic](https://www.youtube.com/watch?v=G0p-BihYzec) 
 + <a href = "papers/sichlingerCibelliGoldrickMittal.pdf">Sichlinger, L., Cibelli, E., Goldrick, M., & Mittal, V. A. (2019). Clinical correlates of aberrant conversational turn-taking in youth at clinical high-risk for psychosis. *Schizophrenia Research*, 204, 419.</a> 
 + Vargas, T., Osborne, K. J., Cibelli, E. S., & Mittal, V. A. (2019). Separating hearing sensitivity from auditory perceptual abnormalities in clinical high risk (CHR) youth. *Schizophrenia Research*, 204, 437-438.
 + <a href= "https://projectreporter.nih.gov/project_info_description.cfm?aid=9746454&icde=44549007"> NIH 1R21MH119677-01A1</a>
