@@ -3,7 +3,7 @@
 title:  
 ---
 
-<font size = 2>[Download PDF resume here.](papers/resume_cibelli_may2020.pdf)</font>
+<font size = 2>[Download PDF resume here.](papers/resume_cibelli_june2020.pdf)</font>
 
 ### PERSONAL PROFILE
 Data analyst and speech scientist specializing in quantitative and computational projects.Technical expertise in data visualization, statistical modeling, and application building. Domain expertise in linguistics, acoustics, cognitive science, and public-sector collective impact and advocacy work. 
